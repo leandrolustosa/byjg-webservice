@@ -1,0 +1,7 @@
+C:\git\ainbox\byjg-webservice\ByJGWebService\ByJGWebService\bin\ByJGWebService.dll.config
+C:\git\ainbox\byjg-webservice\ByJGWebService\ByJGWebService\bin\ByJGWebService.dll
+C:\git\ainbox\byjg-webservice\ByJGWebService\ByJGWebService\bin\ByJGWebService.XmlSerializers.dll
+C:\git\ainbox\byjg-webservice\ByJGWebService\ByJGWebService\bin\ByJGWebService.pdb
+C:\git\ainbox\byjg-webservice\ByJGWebService\ByJGWebService\obj\Release\ByJGWebService.dll
+C:\git\ainbox\byjg-webservice\ByJGWebService\ByJGWebService\obj\Release\ByJGWebService.pdb
+C:\git\ainbox\byjg-webservice\ByJGWebService\ByJGWebService\obj\Release\ByJGWebService.XmlSerializers.dll
